@@ -9,7 +9,7 @@
 ### *So keep it in mind, never have two or more than two instances keep running 24/7 unless you are Bruce Wayne.*
 
 #### Personal speaking, I prefer GCP to AWS, because its UI looks nicer than AWS. Its all up to you. One thing needs to be mentioned that you need to be aware of your GCP credit, setting up a budget alert can prevent you from bankrupt. 
-### GCP:
+## GCP:
 - Log into GCP, Click on "Compute Engine" -> "VM instances" -> "Create"
-#### Create Instance
+### Create Instance
 ![createInstance](https://github.com/shanerbo/YourOwnVPN/blob/master/GCPCreateInstance.png)

@@ -13,3 +13,5 @@
 - Log into GCP, Click on "Compute Engine" -> "VM instances" -> "Create"
 ### Create Instance
 ![createInstance](https://github.com/shanerbo/YourOwnVPN/blob/master/GCPCreateInstance.png)
+### Set up Firewall
+![SetUpFirewall](https://github.com/shanerbo/YourOwnVPN/blob/master/GCPVPCNetwork.png)

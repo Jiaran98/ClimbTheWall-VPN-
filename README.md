@@ -18,3 +18,9 @@
 ![SetUpFirewall](https://github.com/shanerbo/YourOwnVPN/blob/master/GCPVPCNetwork.png)
 ### Create Firewall Rules
 ![FirewallRules](https://github.com/shanerbo/YourOwnVPN/blob/master/GCPFirewallRules.png)
+### Create Rules For Ingress and Egress
+#### Ingress:
+![Ingress](https://github.com/shanerbo/YourOwnVPN/blob/master/GCPAddRules.png)
+#### Egress:
+![Egress](https://github.com/shanerbo/YourOwnVPN/blob/master/GCPAddRulesEgress.png)
+##### GCP only supports lower case naming format

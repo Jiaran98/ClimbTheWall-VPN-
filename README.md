@@ -16,3 +16,5 @@
 ![createInstance](https://github.com/shanerbo/YourOwnVPN/blob/master/GCPCreateInstance.png)
 ### Set up Firewall
 ![SetUpFirewall](https://github.com/shanerbo/YourOwnVPN/blob/master/GCPVPCNetwork.png)
+### Create Firewall Rules
+![FirewallRules](https://github.com/shanerbo/YourOwnVPN/blob/master/GCPFirewallRules.png)

@@ -23,4 +23,4 @@
 ![Ingress](https://github.com/shanerbo/YourOwnVPN/blob/master/GCPAddRules.png)
 ### Egress:
 ![Egress](https://github.com/shanerbo/YourOwnVPN/blob/master/GCPAddRulesEgress.png)
-## Use default VM instance otherwise Google will charge you a lot.
+## Use default VM instance for saving money(roughly $20/month).

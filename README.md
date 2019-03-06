@@ -24,3 +24,4 @@
 ### Egress:
 ![Egress](https://github.com/shanerbo/YourOwnVPN/blob/master/GCPAddRulesEgress.png)
 ## Use default VM instance for saving money(roughly $20/month).
+##### AWS cloudformation does not support VPN

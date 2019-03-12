@@ -1,4 +1,4 @@
-## YourOwnVPN
+## Create Your Own VPN
 #### Going back to China without a solid VPN is a nightmare. Tons of VPN's get banned in China, and the rest of them charges like crazy. Why don't you have your own personal private VPN?
 #### You NEED to have [GCP](https://console.cloud.google.com/home/dashboard?project=person-web) or [AWS](https://portal.aws.amazon.com/billing/signup#/) account to set up your own VPN. 
 ##### I strongly encourage you to apply for a new account if you *DO NOT* have a account yet. GCP gives you $300(+$54)credit, and AWS allows you to use Cloud service 1 year for free (some [restrictions](https://aws.amazon.com/free/?awsf.Free%20Tier%20Types=categories%2312monthsfree) may apply). They are pretty much same.
